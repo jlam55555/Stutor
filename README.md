@@ -1,7 +1,7 @@
 # Stutor
 
 Stutor is a simple platform to both student and tutor: teach and learn from yourself or others.
-** This is still a work in progress**.
+**This is still a work in progress**.
 Developed by Jonathan Lam.
 
 ---
@@ -30,7 +30,9 @@ You will need [JDK8] to use this program.
 Compile and run the `stutor.main.Main` class:
 
 From the CMD prompt:
+
 1. `javac stutor\main\Main.java`
+
 2. `java stutor.main.Main`
 
 [JDK8]:http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
